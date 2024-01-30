@@ -1,7 +1,7 @@
-# DNS Ping Monitor
+# Is The Server Up?
 
 ## Overview
-DNS Ping Monitor is a system tray application for monitoring the availability of a DNS server by periodically sending ping requests. It is developed using Python and PyQt5, offering an intuitive interface for configuration and real-time status updates.
+Is The Server UP is a system tray application for monitoring the availability of a DNS server by periodically sending ping requests. It is developed using Python and PyQt5, offering an intuitive interface for configuration and real-time status updates.
 
 ## Features
 - **DNS Monitoring:** Automatically pings a specified DNS server to check its availability.
@@ -18,7 +18,7 @@ DNS Ping Monitor is a system tray application for monitoring the availability of
 ## Installation
 Clone the repository or download the source code:
 ```
-git clone https://github.com/your-repository/dns-ping-monitor.git
+git clone https://github.com/your-repository/IsTheServerUp.git
 ```
 Install the required dependencies:
 ```
