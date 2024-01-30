@@ -28,7 +28,7 @@ pip install PyQt5
 ## Usage
 Run the application:
 ```
-python dns_ping_monitor.py
+python IsTheServerUp.py
 ```
 Right-click the system tray icon to access the configuration menu or exit the application.
 
